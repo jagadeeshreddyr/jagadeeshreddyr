@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **https://www.coursera.org/specializations/statistics-with-python**
 
-- 💬 Ask me about **Python, Data Science, Statics, Travelling**
+- 💬 Ask me about **Python, Data Science, Statics**
 
 - 📫 How to reach me **jagadeeshreddy1997@gmail.com**
 
