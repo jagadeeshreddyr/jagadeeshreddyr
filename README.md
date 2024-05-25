@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jagadeesh Reddy R
 
 ## About Me
-- 🔭 I’m currently working on a CNN-RNN Yield Prediction Model.
+- 🔭 I’m currently working on a transformers model.
 - 🌱 I’m currently learning Statistics with Python on [Coursera](https://www.coursera.org/specializations/statistics-with-python).
 - 💬 Ask me about Python, Data Science, or Statistics.
 - 📫 You can reach me at jagadeeshreddy1997@gmail.com.
