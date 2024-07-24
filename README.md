@@ -2,10 +2,8 @@
 
 ## About Me
 - 🔭 I’m currently working on a transformers model.
-- 🌱 I’m currently learning Statistics with Python on [Coursera](https://www.coursera.org/specializations/statistics-with-python).
 - 💬 Ask me about Python, Data Science, or Statistics.
 - 📫 You can reach me at jagadeeshreddy1997@gmail.com.
-- ⚡ Fun fact: I think I'm zingy!
 
 ## Connect with Me
 - [Twitter](https://twitter.com/jagadeeshreddyr)
